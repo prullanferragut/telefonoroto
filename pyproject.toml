@@ -1,0 +1,21 @@
+[build-system]
+build-backend = "poetry.masonry.api"
+requires = ["poetry>=0.12"]
+
+[tool]
+[tool.poetry]
+authors = ["Pau Rullan <prullanferragut@twilio.com>"]
+description = ""
+name = "app-bootcamp"
+version = "0.1.0"
+[tool.poetry.dependencies]
+flask = "^2.0.0"
+python = "^3.8"
+python-decouple = "^3.4"
+replit = "^3.1.0"
+shortuuid = "^1.0.1"
+twilio = "^6.60.0"
+requests = "^2.26.0"
+
+[tool.poetry.dev-dependencies]
+ipdb = "^0.13.9"
