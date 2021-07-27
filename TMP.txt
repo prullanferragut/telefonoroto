@@ -1,0 +1,2 @@
+# call callback amb la gravació
+/call/callback?RecordingSource=RecordVerb&RecordingSid=REf2cf56c0dafd7cf4a996ea73d1573b39&RecordingUrl=https://api.twilio.com/2010-04-01/Accounts/AC80861da02f061fa6ee56e490aedd9d51/Recordings/REf2cf56c0dafd7cf4a996ea73d1573b39&RecordingStatus=completed&RecordingChannels=1&ErrorCode=0&CallSid=CA1d2eb00dc15570d785638a2e5b38ee1c&RecordingStartTime=Tue,+27+Jul+2021+18:05:54+%2B0000&AccountSid=AC80861da02f061fa6ee56e490aedd9d51&RecordingDuration=3

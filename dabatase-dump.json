@@ -1,0 +1,19 @@
+{
+    "call_sid:CA0083d113733769cdbba564f6954d6f73": "hYcEvX6BTGPr4FSNUM3rwE",
+    "call_sid:CA6bb2f09756c0faa5c408ddf2e030aad5": "hYcEvX6BTGPr4FSNUM3rwE",
+    "call_sid:CA6bd6196d96dceeac1cffea8e51fd1641": "hTpaayyvMxxDXqTque7hmn",
+    "call_sid:CAb1966074fb6d46b62218824b57a4770e": "PSShHmsXagJTWfgpp4Bhpz",
+    "conferece:PSShHmsXagJTWfgpp4Bhpz": "PSShHmsXagJTWfgpp4Bhpz",
+    "conferece:hTpaayyvMxxDXqTque7hmn": "hTpaayyvMxxDXqTque7hmn",
+    "conferece:hYcEvX6BTGPr4FSNUM3rwE": "hYcEvX6BTGPr4FSNUM3rwE",
+    "last_recording": "https://api.twilio.com/2010-04-01/Accounts/AC80861da02f061fa6ee56e490aedd9d51/Recordings/RE4469a922207c7e643e523877c5eeb1e2",
+    "recording:last_recording": "https://api.twilio.com/2010-04-01/Accounts/AC80861da02f061fa6ee56e490aedd9d51/Recordings/RE4469a922207c7e643e523877c5eeb1e2",
+    "recording:last_url": "https://api.twilio.com/2010-04-01/Accounts/AC80861da02f061fa6ee56e490aedd9d51/Recordings/RE2e6c23b3be3a2b50762b0cd200b5e98a",
+    "stats:current_registered": null,
+    "stats:sms_calls": null,
+    "stats:total_registered": null,
+    "stats_sms_calls": 3,
+    "user:PSShHmsXagJTWfgpp4Bhpz": "+34644375946",
+    "user:hTpaayyvMxxDXqTque7hmn": "+34644375946",
+    "user:hYcEvX6BTGPr4FSNUM3rwE": "+34644375946"
+}
